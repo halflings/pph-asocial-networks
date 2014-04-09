@@ -13,7 +13,7 @@ par le matérialisme des uns et l'apathie des autres, beaucoup trouvent en inter
 un refuge et un monde parfait.
 
 Pourtant, quand on se penche sur les mécanismes qui font internet, les personnes qui
-l'utilisent et les interactions qu'ils ont par ce média, les choses sont loin d'êtres
+l'utilisent et les interactions qu'ils ont par ce média, les choses sont loin d'être
 aussi parfaites.
 
 *-------------------------------------------------------------*
