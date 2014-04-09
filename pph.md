@@ -3,6 +3,21 @@
 
 
 # Introduction
+Internet est réputé être un média universel, ouvert et libre de toutes limites
+géographiques, culturelles et économiques. L'_ONU_ a même reconnu l'accès à internet
+comme un droit fondamental.
+
+Face à une fracture sociale de plus en plus grande, des sociétés qui se replient et
+trouvent refuge dans le communautarisme ou encore des interactions sociales minées
+par le matérialisme des uns et l'apathie des autres, beaucoup trouvent en internet
+un refuge et un monde parfait.
+
+Pourtant, quand on se penche sur les mécanismes qui font internet, les personnes qui
+l'utilisent et les interactions qu'ils ont par ce média, les choses sont loin d'êtres
+aussi parfaites.
+
+*-------------------------------------------------------------*
+
 Lorem ipsum [^lorem] dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
