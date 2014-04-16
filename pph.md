@@ -17,6 +17,11 @@ On essayera de voir des exemples concrets, à travers des sites d'actualité, de
 
 Avant d'aller reproduire des phénomènes sociaux du "monde réel" sur internet, encore faudrait-il... avoir une connexion internet !
 
+On appelle *fracture numérique* la disparité d'accès aux technologies informatiques, notamment Internet.  Cette disparité est fortement marquée d'une part entre les pays riches et les pays pauvres, d'autre part entre les zones urbaines denses et les zones rurales. Elle existe également à l'intérieur des zones moyennement denses. La *fracture numérique* peut aussi être autre que géographique ou économique : on remarque ainsi des disparités dans l'accès à l'informatique et à internet chez les personnages âgées.
+
+Tous ces paramètres rentrent en jeu 
+
+Beaucoup d'efforts ont été faits depuis afin de combler ce "gouffre" numérique, notamment des études commandées par le gouvernement Français et dirigés par Jacques Attali en 2008, ou des travaux plus récents par l'ex-ministre du numérique Fleur Pellerin.
 
 
 *-------------------------------------------------------------*
@@ -28,80 +33,37 @@ Bleh.
 ![Exemple d'image vectorielle](images/centralise.pdf)
 
 Lorem ipsum [^lorem] dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 [^lorem]: Lorem ipsum dolor sit amet, consectetur _adipisicing_ elit, sed do eiusmod
 tempor *incididunt* ut labore et dolore magna aliqua.
 
-### Sous-sous-partie 2
-
-Blah blah, [Google](http://www.google.com/), blah blah.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-![Exemple d'image vectorielle](images/centralise.pdf)
-
-## Sous-partie 2
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 Exemple de quote :
 
-> « _Asynchronous communication means I can take a step out for lunch and catch up
-> on transcripts when I get back. Asynchronous communication means I can ask my
-> coworker a question in-chat and not worry about bothering her since she’ll get
-> back to me when she’s available. Asynchronous communication means I can go to
-> rural Minnesota and feel like I’m working from the office like normal._»
+> « _Asynchronous communication means I can take a step out for lunch and catch up on transcripts when I get back. Asynchronous communication means I can ask my coworker a question in-chat and not worry about bothering her since she’ll get back to me when she’s available. Asynchronous communication means I can go to rural Minnesota and feel like I’m working from the office like normal._»
 
 
 # Bibliographie
 
 ## Livres
 
-- The Difference: How the Power of Diversity Creates Better Groups, Firms,
-Schools, and Societies (New Edition), Scott E. Page, (publié le 11/08/2008).
-- The cathedral and the bazaar, Eric S. Raymond, (publié en 1997, consulté le
-12/03/2012). <http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/>.
-- Getting Real, Jason Fried, Heinemeier David Hansson, Matthew Linderman, (publié le 18/09/2009, consulté le 17/03/2012) <http://gettingreal.37signals.com/toc.php>.
-- The mythical man-month : Essays on software engineering, Frederick Brooks,
-(publié en 1975).
+- **Freakonomics**, Stephen D. Levitt, Stephen J. Dubner, (publié en janvier 2006). <http://www.amazon.fr/Freakonomics-Steven-D-Levitt/dp/2207257967>.
 
 ## Presse
-- Urban Lands of Opportunity, Richard Florida, (publié le 27/06/2010, publié sur
-  internet le 26/06/2010, consulté le 19/03/2012), <http://www.nytimes.com/2010/06/27/jobs/27pre.html?_r=1>
+- **L'ONU reconnaît le droit à la liberté d'expression sur Internet**, Le Monde, (publié sur internet le 06/07/2012, consulté le 16/04/2014), <http://www.lemonde.fr/technologies/article/2012/07/06/l-onu-reconnait-le-droit-a-la-liberte-d-expression-sur-internet_1730303_651865.html>
 
 ## Site web
 
-- Beating the talent crunch with a distributed team, Karthik Hariharan (publié
-le 12/12/2011, consulté le 14/03/2012), Reflections on Software
-<http://hkarthik.me/blog/2011/12/12/beating-the-talent-crunch-with-a-distributed-team/>.
-- Hours are bullshit, Zach Holman, (publié le 16/08/2011, consulté le
-15/03/2012). <http://zachholman.com/posts/how-github-works-hours/>.
-- Firefox China Edition: Everything a Local Browser Should Be, Sarah Perez,
-  (publié le 24/11/2008, consulté le 18/03/2012), <https://www.readwriteweb.com/archives/firefox_china_edition_everything_a_local_browser_should_be.php>.
+- **How Races and Religions Match in Online Dating** (publié le 29/09/2009, consulté le 16/04/2014), OkCupid
+<http://blog.okcupid.com/index.php/how-races-and-religions-match-in-online-dating/>.
 
-## Conférences
+- **The REAL 'Stuff White People Like'** (publié le 08/09/2010, consulté le 16/04/2014), OkCupid
+<http://blog.okcupid.com/index.php/the-real-stuff-white-people-like/>.
 
-- How Github uses Github to build Github. Zach Holman (Github).
-<http://zachholman.com/talk/how-github-uses-github-to-build-github/>.
-- Why work doesn't happen at work. Jason Fried (37 signals). (09/2010, publié
-  11/2010).
-  <http://www.ted.com/talks/lang/en/jason_fried_why_work_doesn_t_happen_at_work.html>.
+## Vidéos
+
+- **Stanford Seminar - Jeff Atwood of StackOverflow / Discourse**, YouTube.
+<https://www.youtube.com/watch?v=hEc6Eyogb9Y>.
 
 ## Rapports
 
-- Microsoft ‘Work Without Walls’ Report: U.S. Telework Trends 2011,
-  Microsoft/IPSOS, (publié le 18/5/2011, consulté le 17/03/2012).
-  <https://www.microsoft.com/presspass/download/features/2011/05-18Remote.pptx>.
+- **Rapport de la Commission pour la libération de la croissance française** (Page 58 : fracture numérique), Jacques Attali. <http://www.publictendering.com/pdf/rapport_attali.pdf>.
