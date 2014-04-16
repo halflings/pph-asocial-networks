@@ -1,4 +1,4 @@
-\documentclass[a4paper,11pt]{article}
+\documentclass[a4paper,12pt]{article}
 \usepackage[top=25mm, bottom=25mm, left=35mm, right=35mm]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage{textcomp}
@@ -12,10 +12,11 @@
 \usepackage{setspace}
 \usepackage[francais]{babel}
 
-
 \usepackage[pdfauthor={$author$},
             pdftitle={$title$},
-            bookmarks=false]{hyperref}
+            hidelinks,
+            colorlinks,
+            linkcolor=black]{hyperref}
 
 \pagestyle{fancy}
 \rhead{PPH --- 2014}
@@ -38,21 +39,25 @@
 \date{}
 
 \begin{document}
-\maketitle
-\begin{center}
-\textbf{Tutrice :} Carine Goutaland
-\end{center}
-\vspace{2cm}
-\begin{center}
-\includegraphics[height=0.5\textheight]{images/cover.pdf}
-\end{center}
-{
-  \footnotesize
-  \tableofcontents
-}
-\newpage
+    \maketitle
+    \begin{center}
+    \textbf{Tutrice :} Carine Goutaland
+    \end{center}
+    \vspace{2cm}
 
-\onehalfspacing
+    \begin{center}
+      \makebox[\textwidth]{\includegraphics[width=\paperwidth]{images/cover.jpg}}
+    \end{center}
 
-$body$
+
+    {
+      \footnotesize
+      \tableofcontents
+    }
+    \newpage
+
+    \onehalfspacing
+
+    $body$
+
 \end{document}

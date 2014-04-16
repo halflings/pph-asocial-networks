@@ -3,13 +3,29 @@
 
 # Introduction
 Internet est réputé être un média universel, ouvert et libre de toutes limites
-géographiques, culturelles et économiques. L'_ONU_ a même reconnu l'accès à internet comme un droit fondamental.
+géographiques, culturelles et économiques. Ce média a pris un rôle tellement important dans nos vies qu'il est passé d'outil facilitant notre vie de tous les jours à un élément à part entière de notre société, la modelant par occasions. L'_ONU_ a même reconnu, le 5 juillet 2012, [l'accès à internet comme un droit fondamental](http://www.lemonde.fr/technologies/article/2012/07/06/l-onu-reconnait-le-droit-a-la-liberte-d-expression-sur-internet_1730303_651865.html).
 
 Face à une fracture sociale de plus en plus grande, des sociétés qui se replient et trouvent refuge dans le communautarisme ou encore des interactions sociales minées par le matérialisme des uns et l'apathie des autres, beaucoup trouvent en internet un refuge et un monde parfait.
 
-Pourtant, quand on se penche sur les mécanismes qui font internet, les personnes qui l'utilisent et les interactions qu'ils ont par ce média, les choses sont loin d'être aussi parfaites.
+Pourtant, quand on se penche sur les mécanismes qui font internet, les personnes qui l'utilisent et les interactions qu'ils ont à travers ce média, les choses sont souvent loin de l'utopie qu'on s'en fait, et reprennent souvent les travers (mais aussi les bons côtés) des constructions sociales qui font notre société.
+
+On essayera de voir des exemples concrets, à travers des sites d'actualité, des réseaux sociaux et autres sites de rencontre. C'est parti !
+
+\newpage
+
+# Fracture numérique
+
+Avant d'aller reproduire des phénomènes sociaux du "monde réel" sur internet, encore faudrait-il... avoir une connexion internet !
+
+
 
 *-------------------------------------------------------------*
+
+## Sous-partie 1
+
+Bleh.
+
+![Exemple d'image vectorielle](images/centralise.pdf)
 
 Lorem ipsum [^lorem] dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -18,37 +34,13 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
 [^lorem]: Lorem ipsum dolor sit amet, consectetur _adipisicing_ elit, sed do eiusmod
 tempor *incididunt* ut labore et dolore magna aliqua.
-
-# Titre principal
-
-## Sous-partie 1
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### Sous-sous-partie 1
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-![Exemple d'image vectorielle](images/centralise.pdf)
 
 ### Sous-sous-partie 2
 
 Blah blah, [Google](http://www.google.com/), blah blah.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
@@ -113,4 +105,3 @@ le 12/12/2011, consulté le 14/03/2012), Reflections on Software
 - Microsoft ‘Work Without Walls’ Report: U.S. Telework Trends 2011,
   Microsoft/IPSOS, (publié le 18/5/2011, consulté le 17/03/2012).
   <https://www.microsoft.com/presspass/download/features/2011/05-18Remote.pptx>.
-
