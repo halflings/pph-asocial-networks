@@ -55,9 +55,9 @@ On peut voir ce type de modération sur plusieurs sites connus :
 Les limites d'un tel type de modération sont nombreuses :
 
 * Les utilisateurs ne participent pas à l'élaboration des règles de modération. Ceci a plusieurs impacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
-* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+* Le passage à l'échelle d'une telle politique est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle politique en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
 
-C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette politique et une politique de modération communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
 
 **facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. Néanmoins, cette initiative s'est révélé n'être rien de plus qu'une illusion de démocratie puisque **facebook** ne proposait pas de vote sur des points vitaux (particulièrement la protection des données des utilisateurs) et a même pris des décisions contraires au résultat de certaines élections. 
 
@@ -70,7 +70,11 @@ Bleh.
 
 Rares sont les sites qui laissent à leurs utilisateurs libre choix de faire ce qu'ils désirent, sans imposer de règles ni de code de bonne conduite (ne serait-ce que pour de raisons légales).
 
-Pourtant, certains ont tenté l'expérience. On peut citer à titre d'exemple [4chan](http://www.4chan.com)
+Pourtant, certains ont tenté l'expérience. On peut citer à titre d'exemple [4chan](http://www.4chan.com). Plus particulièrement sur le tristement connu channel **/b/**, où se côtoient photos de chatons, discutions politiques, insulte raciales, photos violentes voire pédopornographie et tout ceci sans aucune modération, si ce n'est des interventions spontanées pour mettre hors-ligne un contenu illégal dénoncé par les autorités.
+
+Néanmoins, la nature des interactions sur internet fait que la modération est forcément nécessaire. Compter sur une certaine auto-régulation de la communauté sans donner de motivation ni appliquer de contraintes n'est qu'une douce utopie.
+
+Citons par exemple la [loi de Godwin](http://fr.wikipedia.org/wiki/Loi_de_Godwin) qui stipule que plus une conversation internet dure, plus il y a de chance que l'une des personnes participant à cette conversation soit traitée de nazi. On dit alors que *le point Godwin* a été atteint; Ce que l'on peut confirmer sans problème en allant sur n'importe quel site de discussion où la modération est absente.
 
 *-------------------------------------------------------------*
 
