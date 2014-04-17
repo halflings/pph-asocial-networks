@@ -63,7 +63,7 @@ C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette pol
 
 ## Modération communautaire
 
-Bleh.
+**TODO :** à compléter !
 
 
 ## Anarchie !
@@ -75,6 +75,11 @@ Pourtant, certains ont tenté l'expérience. On peut citer à titre d'exemple [4
 Néanmoins, la nature des interactions sur internet fait que la modération est forcément nécessaire. Compter sur une certaine auto-régulation de la communauté sans donner de motivation ni appliquer de contraintes n'est qu'une douce utopie.
 
 Citons par exemple la [loi de Godwin](http://fr.wikipedia.org/wiki/Loi_de_Godwin) qui stipule que plus une conversation internet dure, plus il y a de chance que l'une des personnes participant à cette conversation soit traitée de nazi. On dit alors que *le point Godwin* a été atteint; Ce que l'on peut confirmer sans problème en allant sur n'importe quel site de discussion où la modération est absente.
+
+
+# Diversité ou Communautarisme ?
+
+**TODO :** compléter ça.
 
 *-------------------------------------------------------------*
 
