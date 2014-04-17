@@ -9,7 +9,7 @@ Face à une fracture sociale de plus en plus grande, des sociétés qui se repli
 
 Pourtant, quand on se penche sur les mécanismes qui font internet, les personnes qui l'utilisent et les interactions qu'ils ont à travers ce média, les choses sont souvent loin de l'utopie qu'on s'en fait, et reprennent souvent les travers (mais aussi les bons côtés) des constructions sociales qui font notre société.
 
-On essayera de voir des exemples concrets, à travers des sites d'actualité, des réseaux sociaux et autres sites de rencontre. C'est parti !
+On essayera de voir des exemples concrets, à travers des sites d'actualité, des réseaux sociaux et autres sites de rencontre. C'est parti ! 
 
 \newpage
 
@@ -19,9 +19,200 @@ Avant d'aller reproduire des phénomènes sociaux du "monde réel" sur internet,
 
 On appelle *fracture numérique* la disparité d'accès aux technologies informatiques, notamment Internet.  Cette disparité est fortement marquée d'une part entre les pays riches et les pays pauvres, d'autre part entre les zones urbaines denses et les zones rurales. Elle existe également à l'intérieur des zones moyennement denses. La *fracture numérique* peut aussi être autre que géographique ou économique : on remarque ainsi des disparités dans l'accès à l'informatique et à internet chez les personnages âgées.
 
-Tous ces paramètres rentrent en jeu 
+Beaucoup d'efforts ont été faits depuis afin de combler ce "gouffre" numérique, notamment des études commandées par le gouvernement Français et dirigés par Jacques Attali en 2008, ou des travaux plus récents par l'ex-ministre du numérique Fleur Pellerin. Mais malgré cela, plusieurs indicateurs montrent qu'il existe encore de grande disparités sur les statistiques de visites internet entre différentes catégories sociales et différentes localisations.
 
-Beaucoup d'efforts ont été faits depuis afin de combler ce "gouffre" numérique, notamment des études commandées par le gouvernement Français et dirigés par Jacques Attali en 2008, ou des travaux plus récents par l'ex-ministre du numérique Fleur Pellerin.
+Comme si cette fracture n'était pas déjà assez grande, ... **TODO : à finir**
+
+*-------------------------------------------------------------*
+
+# Modération centralisée/communautaire ou Anarchie ?
+
+Nos sociétés se régulent de différentes manières.
+
+D'un côté, des lois formelles existent pour interdire des comportements considérés comme nocifs pour le bien-être de la société : meurtre, vol, etc.
+
+De l'autre, un ensemble de "lois" informelles sont intrinsèques à notre société, séparant ce qui est moral de ce qui ne l'est pas, et imposant par une pression des membres de la société le respect de certaines règles. On parle notamment de "contrat social".
+
+Qu'en est-il sur internet ? Nous allons prendre quelques exemples de régulation de communautés internet pour voir ce qu'il en est.
+
+## Modération centralisée
+
+Ce type de modération a beau être parmi les moins avant-gardiste, ça reste l'un des plus utilisés.
+
+Le principe est similaire à celui des lois formelles : un ensemble de règles sont formulées par le créateur d'une application web (réseau social, site d'actualité) et doivent être respectées par les utilisateurs de cette dernière.
+
+Le respect de ces règles est contrôlé par des modérateurs professionnels, souvent avec l'aide d'algorithmes qui détectent des motifs de violation dans certaines publications par analyse de mots clefs, détection de motifs dans des images publiées, etc.
+
+On peut voir ce type de modération sur plusieurs sites connus :
+
+* Facebook
+* Twitter
+* LinkedIn
+* Le Figaro
+
+Les limites d'un tel type de modération sont nombreuses :
+
+* Les utilisateurs ne participent pas à l'élaboration des règles de modération. Ceci a plusieurs impacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. troll overflowacts, notamment le fait que les utilisateurs ne se les approprient pas et ont donc plus tendance à les trouver injustes. Aussi, ces règles peuvent être trop restrictives ou laxistes et provoquer l'insatisfaction des utilisateurs du service
+* Le passage à l'échelle d'une telle méthode est complexe : s'il est aisé pour une personne de modérer un service comptant une centaine d'utilisateurs, on voit rapidement les limites d'une telle méthode en allant lire les commentaires du Figaro. En effet, la taille de l'équipe de modération nécessaire devient vite assez irréaliste quand il faut modérer des milliers -voir des millions- de publications par jour.
+
+C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette méthode et une méthode communautaire : **facebook** propose à ses utilisateurs de signaler les publications et utilisateurs ne respectant pas les règles.
+
+**facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. Néanmoins, cette initiative s'est révélé n'être rien de plus qu'une illusion de démocratie puisque **facebook** ne proposait pas de vote sur des points vitaux (particulièrement la protection des données des utilisateurs) et a même pris des décisions contraires au résultat de certaines élections. 
 
 
 *-------------------------------------------------------------*
