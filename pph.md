@@ -21,7 +21,9 @@ On appelle *fracture numérique* la disparité d'accès aux technologies informa
 
 Beaucoup d'efforts ont été faits depuis afin de combler ce "gouffre" numérique, notamment des études commandées par le gouvernement Français et dirigés par Jacques Attali en 2008, ou des travaux plus récents par l'ex-ministre du numérique Fleur Pellerin. Mais malgré cela, plusieurs indicateurs montrent qu'il existe encore de grande disparités sur les statistiques de visites internet entre différentes catégories sociales et différentes localisations.
 
-Comme si cette fracture n'était pas déjà assez grande, ... **TODO : à finir**
+Comme si cette fracture n'était pas déjà assez grande, certains sites visent spécialement certaine catégories socioprofessionnelles ou tranches d'age.
+
+Citons à titre d'exemple **aSmallWorld.net**, un réseau social élitiste qui a été lancé en 2004. Pour y accéder, il faut justifier des revenus assez hauts et partager les intérêts des membres de ce club de privilégiés : voyages, golf et exhibitions d'art. Il est intéressant de noter que l'appartenance à ce club virtuel donne aussi accès à des événements organisés de par le monde. Dans ce sens, *aSmallWorld.net* reproduit le principe des *social clubs* haut de gamme : un ensemble de personnes du même groupe socioprofessionnel qui organisent des événements fermés afin de ne pas se mélanger à la plèbe.
 
 *-------------------------------------------------------------*
 
