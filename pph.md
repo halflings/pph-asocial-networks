@@ -23,7 +23,7 @@ Beaucoup d'efforts ont été faits depuis afin de combler ce "gouffre" numériqu
 
 Comme si cette fracture n'était pas déjà assez grande, certains sites visent spécialement certaine catégories socioprofessionnelles ou tranches d'age.
 
-Citons à titre d'exemple **aSmallWorld.net**, un réseau social élitiste qui a été lancé en 2004. Pour y accéder, il faut justifier des revenus assez hauts et partager les intérêts des membres de ce club de privilégiés : voyages, golf et exhibitions d'art. Il est intéressant de noter que l'appartenance à ce club virtuel donne aussi accès à des événements organisés de par le monde. Dans ce sens, *aSmallWorld.net* reproduit le principe des *social clubs* haut de gamme : un ensemble de personnes du même groupe socioprofessionnel qui organisent des événements fermés afin de ne pas se mélanger à la plèbe.
+Citons à titre d'exemple **[aSmallWorld.net](http://asmallworld.net)**, un réseau social élitiste qui a été lancé en 2004. Pour y accéder, il faut justifier des revenus assez hauts et partager les intérêts des membres de ce club de privilégiés : voyages, golf et exhibitions d'art. Il est intéressant de noter que l'appartenance à ce club virtuel donne aussi accès à des événements organisés de par le monde. Dans ce sens, *aSmallWorld.net* reproduit le principe des *social clubs* haut de gamme : un ensemble de personnes du même groupe socioprofessionnel qui organisent des événements fermés afin de ne pas se mélanger à la plèbe.
 
 *-------------------------------------------------------------*
 
@@ -61,24 +61,18 @@ C'est pour cela que plusieurs sites web proposent plutôt un mix entre cette mé
 
 **facebook** a aussi proposé dans le passé à ses utilisateurs de voter pour l'adoption de lois utilisateur. Néanmoins, cette initiative s'est révélé n'être rien de plus qu'une illusion de démocratie puisque **facebook** ne proposait pas de vote sur des points vitaux (particulièrement la protection des données des utilisateurs) et a même pris des décisions contraires au résultat de certaines élections. 
 
-
-*-------------------------------------------------------------*
-
-## Sous-partie 1
+## Modération communautaire
 
 Bleh.
 
-![Exemple d'image vectorielle](images/centralise.pdf)
 
-Lorem ipsum [^lorem] dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+## Anarchie !
 
-[^lorem]: Lorem ipsum dolor sit amet, consectetur _adipisicing_ elit, sed do eiusmod
-tempor *incididunt* ut labore et dolore magna aliqua.
+Rares sont les sites qui laissent à leurs utilisateurs libre choix de faire ce qu'ils désirent, sans imposer de règles ni de code de bonne conduite (ne serait-ce que pour de raisons légales).
 
-Exemple de quote :
+Pourtant, certains ont tenté l'expérience. On peut citer à titre d'exemple [4chan](http://www.4chan.com)
 
-> « _Asynchronous communication means I can take a step out for lunch and catch up on transcripts when I get back. Asynchronous communication means I can ask my coworker a question in-chat and not worry about bothering her since she’ll get back to me when she’s available. Asynchronous communication means I can go to rural Minnesota and feel like I’m working from the office like normal._»
-
+*-------------------------------------------------------------*
 
 # Bibliographie
 
