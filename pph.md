@@ -31,7 +31,7 @@ Comme si cette fracture n'était pas déjà assez grande, certains sites visent 
 
 Citons à titre d'exemple **[aSmallWorld.net](http://asmallworld.net)**, un réseau social élitiste qui a été lancé en 2004. Pour y accéder, il faut justifier des revenus assez hauts et partager les intérêts des membres de ce club de privilégiés : voyages, golf et exhibitions d'art. Il est intéressant de noter que l'appartenance à ce club virtuel donne aussi accès à des événements organisés de par le monde. Dans ce sens, *aSmallWorld.net* reproduit le principe des *social clubs* haut de gamme : un ensemble de personnes du même groupe socioprofessionnel qui organisent des événements ouverts aux seuls membre de leur groupe, généralement plus qu'aisé.
 
-# Modération centralisée/communautaire ou Anarchie ?
+# Politiques de modération : Centralisées, Communautaires ou Anarchiques ?
 
 Nos sociétés se régulent de différentes manières.
 
@@ -107,17 +107,14 @@ Citons par exemple la [loi de Godwin](http://fr.wikipedia.org/wiki/Loi_de_Godwin
 
 ## Site web
 
-- **How Races and Religions Match in Online Dating** (publié le 29/09/2009, consulté le 16/04/2014), OkCupid
-<http://blog.okcupid.com/index.php/how-races-and-religions-match-in-online-dating/>.
+- **How Races and Religions Match in Online Dating** (publié le 29/09/2009, consulté le 16/04/2014), OkCupid <http://blog.okcupid.com/index.php/how-races-and-religions-match-in-online-dating/>.
 
-- **The REAL 'Stuff White People Like'** (publié le 08/09/2010, consulté le 16/04/2014), OkCupid
-<http://blog.okcupid.com/index.php/the-real-stuff-white-people-like/>.
+- **The REAL 'Stuff White People Like'** (publié le 08/09/2010, consulté le 16/04/2014), OkCupid <http://blog.okcupid.com/index.php/the-real-stuff-white-people-like/>.
 
 ## Vidéos
 
-- **Stanford Seminar - Jeff Atwood of StackOverflow / Discourse**, YouTube.
-<https://www.youtube.com/watch?v=hEc6Eyogb9Y>.
+- **Stanford Seminar - Jeff Atwood of StackOverflow / Discourse**, YouTube <https://www.youtube.com/watch?v=hEc6Eyogb9Y>.
 
 ## Rapports
 
-- **Rapport de la Commission pour la libération de la croissance française** (Page 58 : fracture numérique), Jacques Attali. <http://www.publictendering.com/pdf/rapport_attali.pdf>.
+- **Rapport de la Commission pour la libération de la croissance française** (Page 58 : fracture numérique), Jacques Attali <http://www.publictendering.com/pdf/rapport_attali.pdf>.
