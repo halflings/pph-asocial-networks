@@ -92,7 +92,20 @@ Citons par exemple la [loi de Godwin](http://fr.wikipedia.org/wiki/Loi_de_Godwin
 
 # Diversité ou Communautarisme ?
 
-**TODO :** compléter ça.
+Internet, par comparaison aux médias traditionnels, n'est pas limité géographiquement et la majorité des sites internet proposent un accès gratuit et illimité à tout le monde, sans distinction d'âge, d'origine ou de sexe. On pourrait donc penser que c'est un média libre de toutes "castes" sociales, raciales et économiques. Mais comme il a été montré précédemment (avec la fracture numérique qui s'applique malgré la gratuité des sites), internet, même quand il ne contribue pas à l'amplification de phénomènes de société, ne reste qu'un reflet de nos sociétés.
+
+Bien qu'internet encourage les interactions entre personnes venant de milieux différents, on retrouve les mêmes phénomènes liés au communautarisme sur ce média.
+
+Nous allons nous intéresser plus particulièrement à deux types de site webs : les réseaux sociaux, avec [twitter](http://www.twitter.com), et les sites de rencontre avec [OkCupid](http://okcupid.com)
+
+## Sur les réseaux sociaux : twitter
+
+*todo*
+
+
+## Sur les sites de rencontre : OkCupid
+
+*todo*
 
 *-------------------------------------------------------------*
 
