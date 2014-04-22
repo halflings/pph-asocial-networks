@@ -100,14 +100,33 @@ Nous allons nous intéresser plus particulièrement à deux types de site webs :
 
 ## Sur les réseaux sociaux : twitter
 
-*todo*
+**Twitter** est un réseau social où les utilisateurs peuvent partager des messages d'une longueur maximale de 140 caractères. Ces messages peuvent aussi comprendre des liens vers des images et vidéos.
+
+Ce réseau présente des avantages certains par rapport au plus connu **facebook** en raison de l'ouverture augmentée qu'il propose : là où facebook vise d'abord à établir un lien entre des gens qui se connaissent dans la *"vraie vie"*, twitter est beaucoup plus ouvert en permettant de "suivre" des personnes qu'on ne connaît pas : ainsi les messages qu'on poste sont affichés sur le "mur" de toutes les personnes vous suivant (**followers**) et vice-versa.
+
+On serait donc tentés de croire que les liaisons se créant sur ce réseau ne sont pas limitées aux clivages sociaux des utilisateurs, mais débridés par l'ouverture du réseau en lui même. Mais une fois encore, ce serait sous-estimer la puissance du conditionnement social, l'impact de l'appartenance sociale/raciale/religieuse sur ses fréquentations ainsi que notre tendance à toujours vouloir rester dans notre zone de confort.
+
+Ainsi, plusieurs études[^1] ont montré l'impact que peut avoir l'appartenance raciale, la religion, l'idéologie politique ou encore le "standing socio-économique" sur les fréquentations qu'on a sur les réseaux sociaux, notamment twitter, à des degrés comparables à la ségrégation qu'on peut observer à l'école et plus globalement dans notre société, avec les phénomènes de ghettoïsation et/ou de communautarisme.
+
+Si les réflexes de nos sociétés encore peu perméables à la diversité se font ressentir sur ces réseaux, prétendre qu'ils sont exclusifs et ségrégationniste serait faire preuve de mauvaise foi : ils permettent malgré tout d'offrir une fenêtre ouverte à d'autres communautés et idéologies que les siennes, et ne tombent pas dans la glorification de la majorité (et l'écrasement des minorités) en encourageant la diversité de ces publications et mettant en avant celles qui ont le plus d'impact localement, dans chaque "groupe" d'utilisateurs, et pas forcément au niveau de la totalité du réseau.
+
+
+[^1]: À titre d'exemple, citons l'étude [Segregation in social networks](http://www.yale.edu/ciqle/CIQLEPAPERS/phily110308.pdf) menée par des chercheurs de l'Université de Columbia aux États-unis.
 
 
 ## Sur les sites de rencontre : OkCupid
 
-*todo*
+OkCupid n'est pas un site de rencontre comme les autres : ce site américain - qui comptait plus de 3,5 millions d'utilisateurs en 2011 - a été fondé par Chris Coyne, Sam Yagan, Christian Rudder et Max Krohn. Point commun entre ces entrepreneurs ? Une passion pour les mathématiques et l'informatique. Ils feront de cela leur marque de fabrique, en faisant d'OkCupid un vrai laboratoire grandeur nature où tester leurs algorithmes de compatibilité relationnelle, et en faisant des sites de rencontre une vraie science. On peut notamment suivre leurs expériences sur leur blog, [OkTrends](http://blog.okcupid.com/).
 
-*-------------------------------------------------------------*
+L'une des fonctionnalités les plus importantes d'OkCupid est leur système de quizz : chaque utilisateur doit répondre à des questions en indiquant ses préférences, et ce qu'il attends comme réponse de la part des personnes qu'il recherche.
+
+S'il est prévisible qu'on recherche une personne qui nous ressemble sur un site de rencontre, les études réalisées par OkCupid ont montré quelque chose de plutôt surprenant : au delà des critères purement relatifs à une relation amoureuse (vision du couple, du sexe, du mariage, ...) des critères comme les opinions politiques et la religion étaient parmi les plus déterminants, même chez des personnes dont l'implication politique et la religiosité n'était pas des plus intenses.
+
+Même en amour, et même derrière son écran, l'Homme reste donc peu aventureux.
+
+# Conclusion
+
+Ce rapport peint probablement un tableau trop pessimiste d'internet et de son rôle dans l'ouverture de nos sociétés à la diversité d'opinions et au partage. Il ne faut pas oublier tous les bienfaits de ce média, et les impacts positifs qu'il a eu depuis sa création : facilité d'accès à l'information et à l'éducation, opportunités économiques, partage culturel et social et indépendance et liberté d'expression là où les médias traditionnels n'étaient pas des options viables (notamment les récentes révoltes, en Ukraine, en Turquie et dans les pays arabes).
 
 # Bibliographie
 
@@ -128,6 +147,7 @@ Nous allons nous intéresser plus particulièrement à deux types de site webs :
 
 - **Stanford Seminar - Jeff Atwood of StackOverflow / Discourse**, YouTube <https://www.youtube.com/watch?v=hEc6Eyogb9Y>.
 
-## Rapports
+## Rapports et Recherches
 
 - **Rapport de la Commission pour la libération de la croissance française** (Page 58 : fracture numérique), Jacques Attali <http://www.publictendering.com/pdf/rapport_attali.pdf>.
+- **Segregation in Social Networks based on Acquaintanceship and Trust**, Thomas A. DiPrete, Tyler McCormick, Andrew Gelman, Julien Teitler, Tian Zheng <http://www.yale.edu/ciqle/CIQLEPAPERS/phily110308.pdf>.
