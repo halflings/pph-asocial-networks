@@ -29,9 +29,9 @@ Beaucoup d'efforts ont été faits depuis afin de combler ce "gouffre" numériqu
 
 Comme si cette fracture n'était pas déjà assez grande, certains sites visent spécialement certaine catégories socioprofessionnelles ou tranches d'age.
 
-Citons à titre d'exemple **[aSmallWorld.net](http://asmallworld.net)**, un réseau social élitiste qui a été lancé en 2004. Pour y accéder, il faut justifier des revenus assez hauts et partager les intérêts des membres de ce club de privilégiés : voyages, golf et exhibitions d'art. Il est intéressant de noter que l'appartenance à ce club virtuel donne aussi accès à des événements organisés de par le monde. Dans ce sens, *aSmallWorld.net* reproduit le principe des *social clubs* haut de gamme : un ensemble de personnes du même groupe socioprofessionnel qui organisent des événements ouverts aux seuls membre de leur groupe, généralement plus qu'aisé.
+Citons à titre d'exemple **[aSmallWorld.net](http://asmallworld.net)**, un réseau social élitiste qui a été lancé en 2004. Pour y accéder, il faut justifier des revenus assez hauts et partager les intérêts des membres de ce club de privilégiés : voyages, golf et exhibitions d'art. Il est intéressant de noter que l'appartenance à ce club virtuel donne aussi accès à des événements organisés de par le monde. Dans ce sens, *aSmallWorld.net* reproduit le principe des *social clubs* haut de gamme : un ensemble de personnes du même groupe socioprofessionnel qui organisent des événements ouverts aux seuls membres de leur groupe, généralement plus qu'aisés.
 
-# Politiques de modération : Centralisées, Communautaires ou Anarchiques ?
+# Politiques de modération : centralisées, communautaires ou anarchiques ?
 
 Nos sociétés se régulent de différentes manières.
 
@@ -43,7 +43,7 @@ Qu'en est-il sur internet ? Nous allons prendre quelques exemples de régulation
 
 ## Modération centralisée
 
-Ce type de modération a beau être parmi les moins avant-gardiste, ça reste l'un des plus utilisés.
+Ce type de modération a beau être parmi les moins avant-gardiste, cela reste l'un des plus utilisés.
 
 Le principe est similaire à celui des lois formelles : un ensemble de règles sont formulées par le créateur d'une application web (réseau social, site d'actualité) et doivent être respectées par les utilisateurs de cette dernière.
 
@@ -90,7 +90,7 @@ Néanmoins, la nature des interactions sur internet fait que la modération est 
 Citons par exemple la [loi de Godwin](http://fr.wikipedia.org/wiki/Loi_de_Godwin) qui stipule que plus une conversation internet dure, plus il y a de chance que l'une des personnes participant à cette conversation soit traitée de nazi. On dit alors que *le point Godwin* a été atteint; Ce que l'on peut confirmer sans problème en allant sur n'importe quel site de discussion où la modération est absente.
 
 
-# Diversité ou Communautarisme ?
+# Diversité ou communautarisme ?
 
 Internet, par comparaison aux médias traditionnels, n'est pas limité géographiquement et la majorité des sites internet proposent un accès gratuit et illimité à tout le monde, sans distinction d'âge, d'origine ou de sexe. On pourrait donc penser que c'est un média libre de toutes "castes" sociales, raciales et économiques. Mais comme il a été montré précédemment (avec la fracture numérique qui s'applique malgré la gratuité des sites), internet, même quand il ne contribue pas à l'amplification de phénomènes de société, ne reste qu'un reflet de nos sociétés.
 
@@ -98,7 +98,7 @@ Bien qu'internet encourage les interactions entre personnes venant de milieux di
 
 Nous allons nous intéresser plus particulièrement à deux types de site webs : les réseaux sociaux, avec [twitter](http://www.twitter.com), et les sites de rencontre avec [OkCupid](http://okcupid.com)
 
-## Sur les réseaux sociaux : twitter
+## Sur les réseaux sociaux : Twitter
 
 **Twitter** est un réseau social où les utilisateurs peuvent partager des messages d'une longueur maximale de 140 caractères. Ces messages peuvent aussi comprendre des liens vers des images et vidéos.
 
